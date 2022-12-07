@@ -1,2 +1,2 @@
-# PlantDiseaseDetection-ML
-project
+# PlantDiseaseDetection-MLProject
+ 
